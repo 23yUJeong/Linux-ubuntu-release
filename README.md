@@ -1,2 +1,2 @@
-# Linux-ubuntu-release
+# Linux-ubuntu_release
 ubuntu release
