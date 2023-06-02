@@ -10,9 +10,9 @@
 // void parent(int [][]);
 int child(int []);
 
-void  onerror(char *msg) // error
+void  onerror(char *msg)
 {
-	printf("%s");
+	printf("%s", msg);
 	exit(1);
 }
 
